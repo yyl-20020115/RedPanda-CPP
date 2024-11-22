@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="RedPandaIDE_zh_CN.qm">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/.qm/RedPandaIDE_zh_CN.qm</file>
+<file alias="RedPandaIDE_zh_TW.qm">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/.qm/RedPandaIDE_zh_TW.qm</file>
+<file alias="RedPandaIDE_pt_BR.qm">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/.qm/RedPandaIDE_pt_BR.qm</file>
+</qresource>
+</RCC>

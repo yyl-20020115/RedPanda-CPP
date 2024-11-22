@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/colorschemes">
+<file alias="colorschemes/Borland.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Borland.scheme</file>
+<file alias="colorschemes/Classic.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Classic.scheme</file>
+<file alias="colorschemes/Classic_Plus.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Classic_Plus.scheme</file>
+<file alias="colorschemes/GSS_Hacker.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/GSS_Hacker.scheme</file>
+<file alias="colorschemes/Intellij_Classic.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Intellij_Classic.scheme</file>
+<file alias="colorschemes/Matrix.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Matrix.scheme</file>
+<file alias="colorschemes/Monokai.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Monokai.scheme</file>
+<file alias="colorschemes/Obsidian.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Obsidian.scheme</file>
+<file alias="colorschemes/Obvilion.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Obvilion.scheme</file>
+<file alias="colorschemes/Plastic_Code_Wrap.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Plastic_Code_Wrap.scheme</file>
+<file alias="colorschemes/Twilight.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Twilight.scheme</file>
+<file alias="colorschemes/Visual_Studio.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/Visual_Studio.scheme</file>
+<file alias="colorschemes/VS_Code.scheme">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/colorschemes/VS_Code.scheme</file>
+</qresource>
+</RCC>

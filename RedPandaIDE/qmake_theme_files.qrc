@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="themes/contrast.json">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/themes/contrast.json</file>
+<file alias="themes/dark.json">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/themes/dark.json</file>
+<file alias="themes/default.json">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/themes/default.json</file>
+<file alias="themes/contrast_close.png">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/themes/contrast_close.png</file>
+<file alias="themes/dark_close.png">/home/yilin/Working/RedPanda-CPP/RedPandaIDE/themes/dark_close.png</file>
+</qresource>
+</RCC>

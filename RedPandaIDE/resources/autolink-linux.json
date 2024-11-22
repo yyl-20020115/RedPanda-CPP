@@ -1,0 +1,15 @@
+[
+    {
+        "execUseUTF8": true,
+        "header": "raylib.h",
+        "links": "-lraylib -lGL -lm -lpthread -ldl -lrt -lX11"
+    },
+    {
+        "header": "rdrawing.h",
+        "links": "-lrdrawing"
+    },
+    {
+        "header": "rturtle.h",
+        "links": "-lrturtle"
+    }
+]
